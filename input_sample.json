@@ -1,0 +1,82 @@
+[
+    {"conversation_id": "conv_001",
+        "messages": [
+            {"sender": "user", "text": "Hi, I'm looking for a 2BHK in Dubai"},
+            {"sender": "agent", "text": "Great! Any specific area in mind?"},
+            {"sender": "user", "text": "Preferably Marina or JVC"},
+            {"sender": "agent", "text": "What's your budget?"},
+            {"sender": "user", "text": "Max 120k. Can we do a site visit this week?"}
+    ]},
+
+    {
+        "conversation_id": "conv_002",
+        "messages": [
+          {"sender": "user", "text": "Hi, I reached out last week about the 3BHK listing in Business Bay."},
+          {"sender": "agent", "text": "Yes, I remember. We had discussed some options."},
+          {"sender": "user", "text": "Just checking if there’s any update or if a viewing can be scheduled soon?"}
+        ]
+      },
+
+      {
+        "conversation_id": "conv_003",
+        "messages": [
+          {"sender": "user", "text": "Hi, I saw your ad for a used MacBook Pro. Is it still available?"},
+          {"sender": "agent", "text": "Yes, it's still available. It's the 2021 model, 16-inch, M1 Pro chip."},
+          {"sender": "user", "text": "Great. How much are you asking for it?"},
+          {"sender": "agent", "text": "I'm asking $1400 for it."},
+          {"sender": "user", "text": "Would you be willing to accept $1250?"}
+        ]
+      },
+
+      {
+        "conversation_id": "conv_004",
+        "messages": [
+          {"sender": "user", "text": "Hi, I need someone to check the AC in my apartment. It's not cooling properly."},
+          {"sender": "agent", "text": "Sorry to hear that. Could you share your apartment number and preferred time for a technician visit?"},
+          {"sender": "user", "text": "Sure, Apartment 304, and anytime after 4 PM today works."},
+          {"sender": "agent", "text": "Got it. We’ve scheduled a technician for 4:30 PM today."}
+        ]
+      },
+
+      {
+        "conversation_id": "conv_005",
+        "messages": [
+          {"sender": "user", "text": "Hi, I’m interested in the iPhone 15 Pro Max you have on your website."},
+          {"sender": "agent", "text": "Happy to help! Are you looking for any specific storage size or color?"},
+          {"sender": "user", "text": "512GB, Natural Titanium."},
+          {"sender": "agent", "text": "We have that in stock. Do you want it unlocked or tied to a specific carrier?"}
+        ]
+      },
+
+      {
+        "conversation_id": "conv_006",
+        "messages": [
+          {"sender": "user", "text": "Hi, I wanted to check if I can get an appointment with Dr. Patel this week."},
+          {"sender": "agent", "text": "Sure, Dr. Patel is available on Wednesday and Thursday afternoons. Which day works better for you?"},
+          {"sender": "user", "text": "Thursday afternoon would be ideal."},
+          {"sender": "agent", "text": "Got it. I've booked you for Thursday at 2 PM. You'll receive a confirmation shortly."}
+        ]
+      },
+
+      {
+        "conversation_id": "conv_007",
+        "messages": [
+          {"sender": "user", "text": "Hello, I think I was overcharged for my recent electricity bill."},
+          {"sender": "agent", "text": "I can check that for you. Can you share your account number?"},
+          {"sender": "user", "text": "It’s 8923452."},
+          {"sender": "agent", "text": "Thanks. I see an unusual spike last month. We'll initiate a review and update you within 24 hours."}
+        ]
+      },
+
+      {
+        "conversation_id": "conv_008",
+        "messages": [
+          {"sender": "user", "text": "Hi, I’m looking for an L-shaped sofa in dark gray."},
+          {"sender": "agent", "text": "We have a few models in stock. What dimensions are you looking for?"},
+          {"sender": "user", "text": "Around 8x6 feet, suitable for a medium-sized living room."},
+          {"sender": "agent", "text": "Got it. I’ll send you a few matching options with prices shortly."}
+        ]
+      }
+
+    
+]
