@@ -35,7 +35,8 @@ Follow these steps after cloning the repo.
         ]
       },
 + Sample output 1
-    + conv_006,Book Appointment,The user is requesting an appointment with Dr. Patel.  {csv format}
+    + conversation_id,predicted_intent,rationale 
+      conv_006,Book Appointment,The user is requesting an appointment with Dr. Patel.  {csv format}
 
 + For further examples refer - input_sample.json and out.csv or out.json.
 

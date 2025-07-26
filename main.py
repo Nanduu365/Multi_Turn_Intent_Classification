@@ -61,7 +61,7 @@ def predictor(data,out_format):
 
 
 
-# filepath = r'C:\Users\padma\Desktop\Multi_Turn_Intent_Classification\input_sample.json'
+# filepath = r''
 #Take input
 filepath = input("Enter the json filepath: ")
     

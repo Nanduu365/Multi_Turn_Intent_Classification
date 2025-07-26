@@ -1,9 +1,9 @@
 conversation_id,predicted_intent,rationale 
-conv_001,Product Inquiry,The user is inquiring about 2BHK apartments in Dubai, specifying a budget of 120k and requesting a site visit.
-conv_002,Follow-up,The user is seeking an update on a previous request regarding a property.
+conv_001,Book Appointment,The user is requesting a 2bhk in Dubai and is interested in a site visit to discuss their budget.
+conv_002,Follow-up,The user is seeking an update on a previous request for a viewing of the 3bhk listing.
 conv_003,Pricing Negotiation,The user is attempting to negotiate the price of the Macbook Pro, offering a lower price to secure the item.
-conv_004,Pricing Negotiation,The user is requesting a technician visit at a specific time and price, suggesting they are trying to negotiate the cost.
-conv_005,Product Inquiry,The user is inquiring about the iPhone 15 Pro Max, specifically regarding storage size and color, and is looking for details about the product.
+conv_004,Booking Appointment,The user is requesting a technician visit for their apartment AC.
+conv_005,Product Inquiry,The user is inquiring about the iPhone 15 Pro Max, specifically regarding storage size and color.
 conv_006,Book Appointment,The user wants to schedule an appointment with Dr. Patel.
-conv_007,Pricing Negotiation,The user is requesting a discount or adjustment to their bill due to an unexpected charge, indicating a negotiation attempt.
-conv_008,Product Inquiry,The user is requesting information about a sofa, specifically its dimensions and price.
+conv_007,Pricing Negotiation,The user is requesting a review of their bill and an update regarding the charges, indicating a negotiation attempt.
+conv_008,Product Inquiry,The user is requesting information about a specific sofa model (L-shaped, dark gray) with dimensions.

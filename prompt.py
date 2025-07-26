@@ -21,6 +21,7 @@ You must classify the intent into exactly one of the following five categories:
 
 “Support Request”:
 - Use this if the user is reporting a  problem and is seeking help ,service, troubleshooting, or resolution and the agent is trying to resolve the problem
+- Do not classify as Negotiation if  the user is asking for updates regarding bills, payments etc
 - Do not classify as follow-up if the issue is being reported for the first time.
 
 

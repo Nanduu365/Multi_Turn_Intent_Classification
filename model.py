@@ -22,7 +22,7 @@ def get_response(query):
         ],
     ]
     # mess = ['hai','tell me a story']
-    output = pipe(messages, max_new_tokens=100,temperature = 0.5)
+    output = pipe(messages, max_new_tokens=100,temperature = 0.6)
     # print(output)
     return output[0][0]['generated_text'][2]['content']
 

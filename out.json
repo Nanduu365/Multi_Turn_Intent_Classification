@@ -2,12 +2,12 @@
     {
         "conversation_id": "conv_001",
         "predicted_intent": "Book Appointment",
-        "rationale": "The user is requesting a 2bhk in Dubai and wants to schedule a site visit."
+        "rationale": "The user is requesting a 2bhk in Dubai and is interested in a site visit to discuss their budget."
     },
     {
         "conversation_id": "conv_002",
         "predicted_intent": "Follow-up",
-        "rationale": "The user is seeking an update on a previous request to schedule a viewing for the 3bhk listing."
+        "rationale": "The user is seeking an update on a previous request regarding a property listing."
     },
     {
         "conversation_id": "conv_003",
@@ -16,7 +16,7 @@
     },
     {
         "conversation_id": "conv_004",
-        "predicted_intent": "Booking Appointment",
+        "predicted_intent": "Book Appointment",
         "rationale": "The user is requesting a technician visit to check the AC in their apartment."
     },
     {
@@ -27,16 +27,16 @@
     {
         "conversation_id": "conv_006",
         "predicted_intent": "Book Appointment",
-        "rationale": "The user is requesting an appointment with Dr. Patel for Thursday afternoon."
+        "rationale": "The user wants to schedule an appointment with Dr. Patel."
     },
     {
         "conversation_id": "conv_007",
         "predicted_intent": "Pricing Negotiation",
-        "rationale": "The user is requesting a discount or adjustment to the bill due to a price increase, indicating a negotiation attempt."
+        "rationale": "The user is requesting an update on the bill due to an unusual spike, indicating a negotiation regarding the price."
     },
     {
         "conversation_id": "conv_008",
         "predicted_intent": "Product Inquiry",
-        "rationale": "The user is requesting information about a sofa, specifically its dimensions and price."
+        "rationale": "The user is requesting information about a specific sofa model (L-shaped, dark gray) with dimensions."
     }
 ]
